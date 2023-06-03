@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+.position {
+  position: absolute;
+  top: 100px;
+  right: 40px;
+}
+
 i {
   font-size: 32px;
 }
